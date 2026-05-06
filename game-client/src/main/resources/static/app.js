@@ -1,4 +1,4 @@
-const apiBaseUrl = "http://localhost:8080/api/matches";
+const apiBaseUrl = "http://localhost:9090/api/matches";
 let currentMatchId = null;
 let currentPlayerName = "Player";
 
